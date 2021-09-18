@@ -1,0 +1,27 @@
+body {
+  background-color: #03045e;
+  color: #ee9b00;
+  text-align: center;
+}
+
+label {
+  display: block;
+  padding-bottom: 1rem;
+}
+
+button {
+  border-radius: 5px;
+  background-color: #ee9b00;
+  color: white;
+}
+
+.app-container {
+  padding: 25px 500px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid white;
+}
+
+#output {
+  margin-top: 10px;
+}
