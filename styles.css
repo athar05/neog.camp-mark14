@@ -16,7 +16,7 @@ button {
 }
 
 .app-container {
-  padding: 25px 500px;
+  padding: 25px;
   display: flex;
   flex-direction: column;
   border: 1px solid white;
